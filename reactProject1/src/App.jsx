@@ -1,7 +1,10 @@
-import { useState } from 'react'
+import Cat from "./Cat"
 function App() {
   return (
+    <>
+    <Cat/>
     <h1>my name is mahesh</h1>
+    </>
   )
 }
 
